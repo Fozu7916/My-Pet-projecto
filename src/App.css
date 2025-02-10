@@ -40,3 +40,21 @@
 .read-the-docs {
   color: #888;
 }
+
+button{
+  background-color :rgb(206, 217, 223);
+  margin-top: 15px;
+}
+
+body{
+background-size: cover;
+background-image: url(https://avatars.mds.yandex.net/i?id=02d47bb7fc83664437671483b661c36a_l-5659637-images-thumbs&n=13);
+}
+
+.MainWindow
+{
+padding: 10px;
+background-color: rgba(206, 217, 223, 0.4);
+
+border-radius: 15px;
+}
